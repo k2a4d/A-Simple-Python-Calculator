@@ -1,5 +1,3 @@
-import pytest
-
 from calculator.calculator import Calculator
 
 c = Calculator()
