@@ -1,11 +1,12 @@
 # Calculator
-A simple python calculator
+A fork of a simple python calculator
 Calculator currently supports:
   - Addition, subtraction, division and multiplication
   - Square and square root
   - Hold or reset memory and operate on previous value
   - Error handling
   - Invalid input handling
+  - Dynamic UI
 ### Upcomming Features!
 
   - Trigonometric funcions
@@ -16,6 +17,7 @@ Calculator uses a number of open source projects to work properly:
 * [Python](https://www.python.org/) - The programming language for of this project
 * [Python Math library](https://docs.python.org/3/library/math.html) - The library to implement square root
 * [Pytest](https://docs.pytest.org/en/stable/) - Helps you write better programs by testing
+* [Tkinter] - Helps with the ui
 
 ## Installation
 * Calculator requires Python 3 to run
@@ -56,7 +58,6 @@ Calculator uses a number of open source projects to work properly:
 ### Todos
 
  - Write MORE Tests
- - Add Night Mode
 
 License
 ----
